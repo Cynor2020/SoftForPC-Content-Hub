@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://github.com/Cynor2020/SoftForPC-Content-Hub/blob/main/About/softforpc.gif" 
        alt="SoftForPC Banner" 
-       style="width: 100%; max-height: 300px; object-fit: cover;" />
+       style="width: 100%; max-height: 100px; object-fit: cover;" />
 </p>
 
 
