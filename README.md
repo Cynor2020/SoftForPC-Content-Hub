@@ -63,7 +63,7 @@ Our affiliate network helps us deliver **exclusive offers** and verified links.
 If you're a developer and want to publish your product on SoftForPC:
 
 ### Just email us:
-**submit@softforpc.in**
+**cynor@softforpc.in**
 
 ### Share the following:
 - Software name & description
@@ -83,8 +83,9 @@ This project is managed by the official team behind SoftForPC:
 |------------------|------------------------|
 | **Sarthak Gadakh**  | Founder & Developer     |
 | **Aditya Gangurde** | CEO & Strategist        |
+| **Pawan**           | Website Administrator   |
 | **Sanket Jagzap**   | MD & Social Marketer    |
-| **Pawan**           | Content Manager & Writer|
+
 
 ---
 
@@ -95,5 +96,5 @@ This is a **private content system** developed by **CYNOR**. Usage, duplication,
 ---
 
 <p align="center">
-  Made with ❤️ by the <a href="https://cynor.in" target="_blank">CYNOR Team</a>
+  Made with ❤️ by the <a href="https://cynor2020.github.io/cynor/" target="_blank">CYNOR Team</a>
 </p>
