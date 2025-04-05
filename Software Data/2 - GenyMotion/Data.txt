@@ -1,0 +1,8 @@
+Genymotion + VirtualBox   = https://dl.genymotion.com/releases/genymotion-3.8.0/genymotion-3.8.0-vbox.exe
+
+
+
+Genymotion Desktop only (if VirtualBox is already installed) = https://dl.genymotion.com/releases/genymotion-3.8.0/genymotion-3.8.0.exe
+
+
+No YT Video
