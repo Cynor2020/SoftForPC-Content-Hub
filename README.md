@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://your-animated-banner-link.gif" width="100%" alt="SoftForPC Banner"/>
+  <img src="https://github.com/Cynor2020/SoftForPC-Content-Hub/blob/main/About/softforpc.gif" width="100%" alt="SoftForPC Banner"/>
 </p>
 
 <h1 align="center">🚀 SoftForPC Content Hub</h1>
