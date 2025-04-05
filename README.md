@@ -1,21 +1,11 @@
-# 🎵 Welcome to My Repo
 
-Click the button below to play background music while browsing the repo:
-
-[![Play Music](https://img.shields.io/badge/Play_Music-Click_Here-green?style=for-the-badge&logo=music)](https://your-website-or-mp3-link.com)
-
----
-
-Or listen directly here:
-
-<audio controls>
-  <source src="https://your-website-or-raw.githubusercontent.com/username/repo/main/background.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
-</audio>
 
 <p align="center">
-  <img src="https://github.com/Cynor2020/SoftForPC-Content-Hub/blob/main/About/softforpc.gif" width="100%" height="50%" alt="SoftForPC Banner"/>
+  <img src="https://github.com/Cynor2020/SoftForPC-Content-Hub/blob/main/About/softforpc.gif" 
+       alt="SoftForPC Banner" 
+       style="width: 100%; max-height: 300px; object-fit: cover;" />
 </p>
+
 
 <h1 align="center">🚀 SoftForPC Content Hub</h1>
 
