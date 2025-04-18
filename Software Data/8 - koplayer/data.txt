@@ -1,0 +1,15 @@
+System Requirements for Koplayer
+If you want to run Koplayer on your system, your PC specifications must meet these minimum requirements.
+
+RAM – 2GB
+CPU – Dual core AMD or Intel CPU
+HDD – 10 GB of free disk space
+OS – Windows 7 or higher versions
+Resolution – Minimum 1024X768
+Graphics Card – GPU with OpenGL 2.1
+
+yt video = no
+
+download link = https://koplayer.software.informer.com/download/?ca15bde6-1.4.1049
+
+About and main features = https://koplayerpc.com/
