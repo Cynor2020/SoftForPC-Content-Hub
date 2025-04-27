@@ -5,3 +5,12 @@ Ubuntu -    https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xa
 Mac - Google drive link
 
 YT VIDEO NO
+
+
+How to install 
+
+cd ~/Downloads
+chmod +x xampp-linux-x64-8.0.30-0-installer.run
+sudo ./xampp-linux-x64-8.0.30-0-installer.run
+
+Run = sudo /opt/lampp/lampp start
