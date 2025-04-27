@@ -1,0 +1,7 @@
+windows -   https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.0.30/xampp-windows-x64-8.0.30-0-VS16-installer.exe
+
+Ubuntu -    https://sourceforge.net/projects/xampp/files/XAMPP%20Linux/8.0.30/xampp-linux-x64-8.0.30-0-installer.run
+
+Mac - Google drive link
+
+YT VIDEO NO
